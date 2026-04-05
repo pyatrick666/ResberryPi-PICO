@@ -58,4 +58,41 @@ The Raspberry Pi Pico is a low-cost microcontroller widely used for IoT, automat
 
 ---
 
-## Folder Structure
+## Usage
+
+- Run programs to test hardware components.
+- Modify code to integrate new sensors.
+- Use projects as learning examples for embedded development.
+
+---
+
+## Learning Outcomes
+
+- Understanding GPIO control
+- Microcontroller programming basics
+- Hardware and software integration
+- Embedded system design
+
+---
+
+## Future Improvements
+
+- Add IoT integration
+- Wireless communication support
+- More sensor-based projects
+- Real-time monitoring systems
+
+---
+
+## Author
+
+**Patrick**
+
+GitHub: https://github.com/pyatrick666
+
+---
+
+## License
+
+This project is open-source and available under the **MIT License**.
+
